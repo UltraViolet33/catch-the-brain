@@ -39,9 +39,9 @@ pip install pygame
 
 This command installs the Pygame library in the python project. You need this library to run the game.
 
-If you want to know more about Pygame, here is its [official website](https://www.pygame.org/news).
+If you want to know more about Pygame, here is the [official website](https://www.pygame.org/news).
 
-Then run the main.py file. The game is executed.
+Then run the main.py file. The game is launched.
 
 Happy game !
 
