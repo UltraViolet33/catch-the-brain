@@ -1,9 +1,3 @@
-"""
-Catch the Brain
-A Python Game made with Pygame
-Game Python File
-By Ulysse Valdenaire
-"""
 import pygame
 import random
 
